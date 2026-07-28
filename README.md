@@ -47,25 +47,19 @@
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahilrasheed&label=views&color=0e75b6&style=flat-square" alt="nahilrasheed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahilr&label=views&color=0e75b6&style=flat-square" alt="nahilr" /> </p>
 <details>
 <summary>Stats</summary>
 
-<a href="https://github.com/nahilrasheed/">
-<img align="center" height=200 src="https:///github-readme-stats.shion.dev/api?username=nahilrasheed&include_all_commits=true&show_icons=true&theme=dark&locale=en&hide_border=true" alt="nahilrasheed" />
-</a>
+<img align="center" height=200 src="https:///github-readme-stats.shion.dev/api?username=nahilr&include_all_commits=true&show_icons=true&theme=dark&locale=en&hide_border=true" alt="nahilr" />
 
-<a href="https://github.com/nahilrasheed/">
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=nahilrasheed&include_all_commits=true&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="nahilrasheed" />
-</a>
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=nahilr&include_all_commits=true&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="nahilr" />
 
-<a href="https://github.com/nahilrasheed/">
-<img align="center" height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahilrasheed&theme=dark" alt="nahilrasheed" />
-</a>
+<img align="center" height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahilr&theme=dark" alt="nahilr" />
 
 </details>
 <!---
-nahilrasheed/nahilrasheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nahilr/nahilr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
   
