@@ -54,12 +54,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahilr&label=views&color=0e75b6&style=flat-square" alt="nahilr" /> </p>
 <details>
 <summary>Stats</summary>
-
-<img align="center" height=200 src="https:///github-readme-stats.shion.dev/api?username=nahilr&include_all_commits=true&show_icons=true&theme=dark&locale=en&hide_border=true" alt="nahilr" />
-
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=nahilr&include_all_commits=true&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="nahilr" />
-
-<img align="center" height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahilr&theme=dark" alt="nahilr" />
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahilr&theme=dark&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahilr&theme=dark&animation=draw) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahilr&theme=dark&animation=draw)
 
 </details>
 <!---
