@@ -14,7 +14,10 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      
+
+      - name: Ensure 3D graph output directory exists
+        run: mkdir -p assets/3d-graph
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
