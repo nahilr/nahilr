@@ -1,0 +1,16 @@
+name: TryHackMe Update Badge
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  tryhackme-badge-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: nahilr/tryhackme-profile-badge-workflow@main
+        with:
+          user_public_id: '3098720'
