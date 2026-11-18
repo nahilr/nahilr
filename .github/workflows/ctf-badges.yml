@@ -1,4 +1,4 @@
-name: TryHackMe Update Badge
+name: CTF Badges
 
 on:
   workflow_dispatch:
@@ -7,10 +7,11 @@ permissions:
   contents: write
 
 jobs:
-  tryhackme-badge-update:
+  update-badges:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: nahilr/tryhackme-profile-badge-workflow@main
+      - uses: nahilr/ctf-badges@main
         with:
-          user_public_id: '3098720'
+          thm_username: '0xnhl'
+          htb_profile_id: '1965095'

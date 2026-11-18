@@ -14,7 +14,10 @@
 <!--<a href="https://hackerone.com/0xnhl?type=user"><img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white"></a>-->
 
 <a href="https://tryhackme.com/p/0xnhl" target="_blank">
-  <img src="https://raw.githubusercontent.com/nahilr/nahilr/main/assets/thm_badge.png" alt="TryHackMe stats">
+  <img src="https://raw.githubusercontent.com/nahilr/nahilr/main/assets/thm_badge.svg" alt="TryHackMe stats">
+</a>
+<a href="https://profile.hackthebox.com/profile/019dcfa1-babb-73c3-b27c-57a814b804d5" target="_blank">
+  <img src="https://raw.githubusercontent.com/nahilr/nahilr/main/assets/htb_badge.svg" alt="hackthebox stats">
 </a>
 
 <h3> 💻 Tech Stack: </h3>
